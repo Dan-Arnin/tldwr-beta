@@ -17,7 +17,6 @@ colorama==0.4.6
 confection==0.0.3
 conllu==4.5.2
 contourpy==1.0.6
-cryptography==38.0.4
 cycler==0.11.0
 cymem==2.0.7
 debugpy==1.6.3
